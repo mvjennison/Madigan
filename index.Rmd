@@ -1,0 +1,27 @@
+---
+title: "Contact"
+---
+
+[LinkedIn](https://www.linkedin.com/in/madigan-jennison/){style="color: magenta"} [Instagram](https://www.instagram.com/madiganvictoria/){style="color: pink"} [Email](mailto:mvj1002@usnh.edu){style="color: magenta"}
+
+![](images/371873376_207376185429647_3664715249753337681_n%20(1).jpg){width="250"}
+
+## Past Work:
+
+![Summer 2023 Undergraduate Research](images/Jennison.EPSCoR.Summer231024_1.jpg)
+
+<br>
+
+<br>
+
+### Recent Readings:
+
+[Structure-Based Design of Dendritic Peptide Bolaamphiphiles for siRNA Delivery](https://pubs.acs.org/doi/10.1021/acscentsci.5b00233){style="color: magenta"}
+
+<br>
+
+[Macroporous modified poly (vinyl alcohol) hydrogels with charged groups for tissue engineering: Preparation and in vitro evaluation](https://pdf.sciencedirectassets.com/271550/1-s2.0-S0928493117X00039/1-s2.0-S0928493116313558/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjECcaCXVzLWVhc3QtMSJIMEYCIQDojuMiGHlIcEozaksMHn0Q0rkEHuMDBCCASdB6%2FlPTgwIhAOfYzM7KeKkfaa5Y57IC5zpDmvzPk1%2Bop9HNRNuRKPLCKrwFCPD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQBRoMMDU5MDAzNTQ2ODY1Igy8h%2BLviR%2F5wNarwj0qkAWqfyyriqM0Ief%2BhP5crgTEYs1mL8I6NamMOcQSpEPWbp3hAtO11KpNAMWUkzHBBZpyii%2BAIsUuK263kCZ8hAkPy6ZUam3n6GhGF8VK9tJNSRULhNLOi9obKQumoN5B%2BDlSyfZ4HBjAtYHgjvBKvLLBAHC1M4FCFypVCm0WgYqzQrO8h2B9ivx9L4GjMbkcq41Rpa5RQHAfHTlc0VhH8oweKwph%2B%2BjUIiU2hkvLyJcqkvmjUTqsrpYQfndr1j9%2F4OzS4C1u9im5zne3uxr8m%2F0Y33jJ01RFVvN1AH%2FOyhyhMgBPXEOR%2BAeRwWCkYOMSAMI9Gei47Tapcc%2BkVEMvEMLK0fktB45nD%2BzZ5WVYS96N4HxQ1C4rzhJ15ovjAiA68QqqPR0OKCeoCI6gbXqDy7QKNlHPs9jE4nQ4fM3beEZpYLUU8qp9tVR%2FWZuZ7cZ79D84Ri47%2F02phjamoxj5Z8zREGL%2FvPo0G6%2Fl2V1%2F%2FOf6EPu5lOyxQPFDQm%2FUUgS%2FSaldbmcxJXxLCVGEo0U3y7K8Uq5qhSnVHNx04XJAj%2F7fhOai77QJWpE6Br%2B%2FDvP8WUEq94UO5IRL2dOcq40s6qLzfIDCBMeGtOHPO6pQDeSOR%2BE1Bz60%2FhxcXqnreitVMAPqIe4b1fGv0Iu9IcU%2F6hH%2FKb6G61nqkFXs6Hs953JzsvkQgcbbk61aCVDs7C912EmdYPgE8ROKN8caKEH0yWKEwMNxLEunnLXFWx%2BIjHemiXwa3bvsBsZnkD72v51HpKiM0kxqw8RVU5q6uLV4mxmdiYPcit9OJGfKlz10msgorNq3bCLkkU0Ean1LRou31olhS5YVFmx3YNLNaITzJykPf6pNoAwMa7W8qv95UCInLDDG7MenBjqwAXnJ848jj9uT3Z1VaNBAPWJgDGitiDbOxQvXe6%2FP3RMLI10TLSixGHnferkAV3mioOx3z6DDF%2B8YLEkVFXiMmtQjNNC8%2FenKYEAz%2FVJ33jkr9UWx2uQkyVcytzK5Z4%2Bkd4y4oc3MrAvLtuaUYCV2vkP%2Fm%2FJr%2BR%2Fn7npCamKzlyjcl2zhm%2BKJtcrt7tp30tXXCP4RADxPUWVZaUZRlmRa%2FY33IKxloFB2uLpfrqBCDZW7&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230901T154645Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY2NFL6RNL%2F20230901%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=5274d1ced40f5f5447242179edb2fe9e72681c76fa4ab30f50eae8bf9bb46dd2&hash=c9a3f08a88858df4ea541f5b7b740f39a59b62d54a7017bf53b45be0b2eeed58&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0928493116313558&tid=spdf-4c80bf3a-ef03-4e5c-af7d-c374c47ba8e8&sid=6cc8c22c544413449e2a76b9780888e8a141gxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=0f155705020b065b015e00&rr=7ffea5d9bf034cd5&cc=us){style="color: magenta"}
+
+<br>
+
+[Simultaneous Dual-Sensing Platform Based on AptamerFunctionalized DNA Hydrogels for Visual and Fluorescence Detection of Chloramphenicol and Aflatoxin M1](https://pubs.acs.org/doi/pdf/10.1021/acs.bioconjchem.3c00130){style="color: magenta"}
